@@ -1,0 +1,8 @@
+q1
+Ans - abc
+
+Q2
+ans - cda
+
+Q3
+ans - bcc
